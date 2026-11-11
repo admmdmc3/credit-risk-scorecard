@@ -67,7 +67,7 @@ $$\text{Skor} = \text{Offset} + \text{Factor} \times \ln\left(\frac{1 - \text{PD
 
 ```bash
 # 1. Depoyu klonlayın
-git clone [https://github.com/KULLANICI_ADIN/credit-risk-scorecard.git](https://github.com/KULLANICI_ADIN/credit-risk-scorecard.git)
+git clone [https://github.com/admmdmc3/credit-risk-scorecard.git](https://github.com/admmdmc3/credit-risk-scorecard.git)
 cd credit-risk-scorecard
 
 # 2. Sanal ortam oluşturun ve bağımlılıkları yükleyin
