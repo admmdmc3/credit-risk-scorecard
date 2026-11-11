@@ -56,6 +56,9 @@ $$\text{Skor} = \text{Offset} + \text{Factor} \times \ln\left(\frac{1 - \text{PD
 
 ## 🖥️ Uygulama Sekmeleri (`app.py`)
 
+<img width="1534" height="730" alt="image" src="https://github.com/user-attachments/assets/0745ca3e-e526-460e-9301-24c1f964859f" />
+
+
 1. **Canlı Kredi Karar Motoru:** Sol panelden hazır müşteri profilleri (*Düşük Riskli VIP*, *Gri Bölge / İnceleme*, *Yüksek Riskli*) veya manuel parametrelerle anlık PDO skoru, kalibre PD (%), risk grubu, ibre (gauge) grafiği ve **SHAP** tabanlı Kredi Tahsis Komitesi değerlendirme notu üretir.
 2. **EDA & WoE / IV Raporu:** Tüm değişkenlerin IV güç sıralamasını, dağılım histogramlarını ve bant bazlı batık oranı eğrilerini interaktif olarak sunar.
 3. **Model Validasyonu & Kalibrasyon:** Train vs Test GINI/KS/AUC karşılaştırmalarını, Overfitting/PSI kontrol kartlarını, Kalibrasyon (Reliability) eğrisini ve Brier Score grafiklerini içerir.
