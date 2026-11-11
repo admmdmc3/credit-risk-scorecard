@@ -1,0 +1,11 @@
+Feature,IV,Strength
+RevolvingUtilizationOfUnsecuredLines,1.109459,Very Strong
+NumberOfTimes90DaysLate,0.83491,Very Strong
+NumberOfTime30-59DaysPastDueNotWorse,0.691027,Very Strong
+NumberOfTime60-89DaysPastDueNotWorse,0.557522,Very Strong
+age,0.245354,Medium
+DebtRatio,0.07348,Weak
+MonthlyIncome,0.07284,Weak
+NumberOfOpenCreditLinesAndLoans,0.068703,Weak
+NumberOfDependents,0.024355,Weak
+NumberRealEstateLoansOrLines,0.013544,Not Predictive

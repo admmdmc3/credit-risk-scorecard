@@ -1,0 +1,34 @@
+{
+  "LightGBM": {
+    "Train": {
+      "AUC": 0.8708,
+      "GINI": 0.7417,
+      "KS": 0.5829,
+      "BRIER": 0.052354
+    },
+    "Test": {
+      "AUC": 0.8694,
+      "GINI": 0.7388,
+      "KS": 0.5797,
+      "BRIER": 0.052726
+    }
+  },
+  "LogisticRegression": {
+    "Train": {
+      "AUC": 0.852,
+      "GINI": 0.7039,
+      "KS": 0.5484,
+      "BRIER": 0.056207
+    },
+    "Test": {
+      "AUC": 0.8588,
+      "GINI": 0.7176,
+      "KS": 0.5601,
+      "BRIER": 0.055456
+    }
+  },
+  "PSI": {
+    "LightGBM": 0.000532,
+    "LogisticRegression": 0.000252
+  }
+}
